@@ -1,4 +1,6 @@
 # brightspace-auth-assertions
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Brightspace/node-auth-assertions.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Brightspace/node-auth-assertions.svg?branch=master)](https://travis-ci.org/Brightspace/node-auth-assertions.svg?branch=master)
 
 ## Example
